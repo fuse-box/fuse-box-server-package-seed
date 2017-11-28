@@ -1,0 +1,29 @@
+{
+  "name": "fuse-box-server-package-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "ts:main": "src/index.ts",
+  "typings": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-box/fuse-box-server-package-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuse-box/fuse-box-server-package-seed/issues"
+  },
+  "homepage": "https://github.com/fuse-box/fuse-box-server-package-seed#readme",
+  "devDependencies": {
+    "fuse-box": "^3.0.0-next.26",
+    "fuse-test-runner": "^1.0.16",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "tslib": "^1.8.0"
+  }
+}
