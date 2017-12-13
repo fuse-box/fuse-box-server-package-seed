@@ -1,6 +1,6 @@
 {
   "name": "fuse-box-server-package-seed",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/app.js",
   "ts:main": "src/index.ts",
@@ -19,9 +19,10 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-server-package-seed#readme",
   "devDependencies": {
-    "fuse-box": "^3.0.0-next.26",
+    "fuse-box": "^3.0.0-next.36",
     "fuse-test-runner": "^1.0.16",
-    "typescript": "^2.6.2"
+    "typescript": "^2.6.2",
+    "uglify-es": "^3.2.2"
   },
   "dependencies": {
     "tslib": "^1.8.0"
